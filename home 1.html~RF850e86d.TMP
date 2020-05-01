@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<style>
+
+#d1{
+background-image:url(39828323-acoustic-guitar-wallpapers.jpg);
+height:800px;
+weidth:100px;
+}
+
+#d1 font{
+font-size:60px;
+margin-left:755px;
+}
+
+.button {     
+background-color:rgba(255,102,0,0);   
+border-color:rgba(255,204,0,1);
+color: white;  
+padding: 15px 32px; 
+text-align:justify;   
+font-size: 16px; 
+margin: 3px 2px;   
+cursor: pointer; 
+margin-left:20%;
+border-radius:10px;
+} 
+
+#d2{
+	
+background-color:rgba(255,255,255,1);
+height:400px;
+weidth:100%;	
+	
+}
+
+#d3{
+
+background-image:url(25007.jpg);
+height:600px;
+weidth:100%;
+	
+}
+
+#d4{
+
+background-color:rgba(255,255,255,1);
+height:600px;
+weidth:100%;
+
+}
+
+#d5{
+	
+	background-image:url(38854532-acoustic-guitar-wallpapers.jpg);
+	height:1000px;
+	weidth:100%;
+	
+	}
+
+.a{
+
+height: 200px; 
+width: 600px; 
+background-color:rgba(0,0,0,0.1);
+
+
+border-radius:50px;
+
+border-top: 25px solid transparent;
+margin-top:50px;
+
+
+}
+	
+</style>
+
+
+<body>
+
+<div id="d1">
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<font face="Palatino Linotype, Book Antiqua, Palatino, serif" size=5 color="#FFFFFF"> Plug & Play</font>
+<br /><br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<center><input type="button" class="button" value="Log-in" /></center>
+
+</div>
+
+<div id="d2">
+
+<br /><br /><br /><br />
+<center><font face="Georgia, Times New Roman, Times, serif" color="#000000" size="+6">GUITARS LIKE NO OTHERS</font></center>
+<br /><hr />
+<center><font face="Georgia, Times New Roman, Times, serif" color="#000000" size="+4">Modern instruments for modern guitarist</font></center>
+<hr /><br /><br />
+<center><font face="Georgia, Times New Roman, Times, serif" color="#000000" size="+2">Imagine if you could switch your guitar from its natural electric guitar tone to perfectly modeled versions of the world’s most coveted vintage electrics, classic acoustics and exotic instruments, all with the simple twist of a knob. Or switch up your tunings on the fly, even mid-song. Imagine the trunk space saved.</font></center>
+
+</div>
+<div id="d3">
+
+<p><br />
+  <br /><br /><br /><br /><br />
+  <p align="right">
+  &nbsp;&nbsp;
+  <font face="Georgia, Times New Roman, Times, serif" color="#FFFFFF" size="+3"><ul>OPTIMIZED FOR LINE 6 MODELERS</ul><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MULTI-EFFECTS</font> </p><br />
+  
+  <br /><br /><br />
+  </p>
+  <p align="right">
+  <font face="Bradley Hand ITC" color="#333333" size="+3"><b>Venture even further beyonf the orthodox.Create custom presets <br />
+   that change tunings as well as amp.</b></font>
+  </p>
+</div>
+<div id="d4">
+
+<div class="a"></div>
+
+</div>
+
+<div id="d5"></div>
+
+</body>
+</html>
